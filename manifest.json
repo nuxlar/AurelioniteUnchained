@@ -1,0 +1,10 @@
+﻿{
+	"name": "AurelioniteUnchained",
+	"version_number": "1.0.0",
+	"website_url": "",
+	"description": "Fight a stronger golden titan free of his bonds.",
+	"dependencies": [
+		"bbepis-BepInExPack-5.4.2102",
+		"RiskofThunder-HookGenPatcher-1.2.3"
+	]
+}
